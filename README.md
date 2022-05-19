@@ -105,5 +105,7 @@ npm run coverage
 
 The output will be displayed in your terminal window and saved in an .html file inside the `coverage` folder in project's root.
 
-Also you can checkout enpoints in postman:
-You need to import postman configuration via this link - https://www.getpostman.com/collections/6d286b49902e02dd32fb
+Also you can checkout enpoints in postman. You need to import postman configuration via this link 
+```
+https://www.getpostman.com/collections/6d286b49902e02dd32fb
+```
