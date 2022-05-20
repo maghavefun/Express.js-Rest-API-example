@@ -105,7 +105,7 @@ npm run coverage
 
 The output will be displayed in your terminal window and saved in an .html file inside the `coverage` folder in project's root.
 
-#### How can I check API endpoints?
+### How can I check API endpoints?
 You can checkout it in postman. You need to import postman configuration via this link:
 ```
 https://www.getpostman.com/collections/6d286b49902e02dd32fb
